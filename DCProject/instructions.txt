@@ -1,0 +1,15 @@
+Unzip folder
+
+In root folder run unzipper.py
+
+CD into 'toCSV'
+
+run 'py fittocsv.py'
+
+run 'py csvCombine.py'
+
+Upload C:\Users\*name*\Documents\dc\DistributedComputingWinter2025\DCProject\output\csv to databricks
+
+upload notebook
+
+run notebook
